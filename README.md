@@ -13,9 +13,9 @@ Ps.: I used Vue/Axios and Bulma just to make it pretty with a few lines of code.
 
 ### Requirements:
 
-1- Once you start your laravel project, remember to `composer require --save predis/predis` to use Redis.
-2- Configure the IP/ports of your Redis server (use docker for dev environments).
-3- Start Laravel.
-4- Start Redis.
-5- Start Socket.io ( Terminal: `node socket.js`) .
-6- Enjoy.
+1. Once you start your laravel project, remember to `composer require --save predis/predis` to use Redis.
+2. Configure the IP/ports of your Redis server (use docker for dev environments).
+3. Start Laravel.
+4. Start Redis.
+5. Start Socket.io ( Terminal: `node socket.js`) .
+6. Enjoy.
